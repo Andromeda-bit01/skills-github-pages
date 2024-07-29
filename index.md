@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-This is some test content.
+I'm glad you found your way here.
